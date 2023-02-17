@@ -13,7 +13,7 @@ export default class App extends Component {
     static getDerivedStateFromProps(props){
         console.log("Mounting1 derived state called....");
         return null;
-    }    
+    }    nmn
   render() {
     console.log("Mounting1 render invoked...");
     return (
